@@ -1,0 +1,12 @@
+
+--- UPDATED GREEN BOX EVALUATION REPORT ---
+
+Evaluated on Test Split (Held-out Test Images):
+Backbone Architecture : Faster R-CNN with ResNet-50 FPN
+IoU Threshold         : 0.50
+
+--------------------------------------------------
+mAP@0.50  : 36.29%
+Recall    : 54.23%
+F1-Score  : 43.48%
+--------------------------------------------------

@@ -1,0 +1,7 @@
+README.md
+setup.py
+green_box_detector.egg-info/PKG-INFO
+green_box_detector.egg-info/SOURCES.txt
+green_box_detector.egg-info/dependency_links.txt
+green_box_detector.egg-info/requires.txt
+green_box_detector.egg-info/top_level.txt

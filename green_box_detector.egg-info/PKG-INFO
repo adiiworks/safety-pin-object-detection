@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: green_box_detector
+Version: 1.0.0
+Summary: Faster R-CNN Object Detection and Counting for green_box objects (No YOLO)
+Author: Aditya
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Dist: torch>=2.0.0
+Requires-Dist: torchvision>=0.15.0
+Requires-Dist: opencv-python
+Requires-Dist: pycocotools
+Requires-Dist: torchmetrics
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: summary

@@ -1,0 +1,14 @@
+# Core ML & Computer Vision Frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Quantitative Metrics & Evaluation
+torchmetrics>=1.0.0
+pycocotools>=2.0.6
+
+# Image Processing & Utilities
+Pillow>=9.5.0
+tqdm>=4.65.0
+matplotlib>=3.7.0
